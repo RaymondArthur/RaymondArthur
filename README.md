@@ -6,7 +6,7 @@ Bachelor of Mathematical and Statistical Sciences (1st class hons) - La Trobe Un
 Master of Applied Finance (specialising in Financial Risk Management) - Macquarie University
 
 # Interests
-My background is in theoretical statistics and finance. I love solving problems, and have grown to love coding and providing leadership / guidance to scrum teams.
+My background is in theoretical statistics and quantative finance. I love solving problems, and have grown to love coding and providing leadership / guidance to scrum teams.
 
 My interests are in web applications, databases and data models.
 
