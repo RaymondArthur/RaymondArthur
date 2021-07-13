@@ -1,5 +1,5 @@
 # About me
-My name is Raymond Arthur, a software engineer / product owner / data scientist / finance analyst located in Sydney, Australia
+My name is Raymond Arthur, a software engineer / product owner / data scientist / quantitative finance analyst located in Sydney, Australia
 
 # Education
 Bachelor of Mathematical and Statistical Sciences (1st class hons) - La Trobe University
